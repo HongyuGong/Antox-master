@@ -1,0 +1,43 @@
+# Top-level generated gradle build file
+/build.gradle
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+app/build/
+build/
+capture/
+app/libs/tox4j_2.11.jar
+app/libs/protobuf-java-2.6.1.jar
+app/src/main/jniLibs
+atlassian-ide-plugin.xml
